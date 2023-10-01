@@ -3,6 +3,7 @@ Maze game implementation in C#, where the board is randomly generated ensuring a
 1. Simple version 
 	![Simple](GIFs/SimpleMaze.gif)
 2. 40x40 board
+
 	![40_40](Pictures/40_40_maze.png)
 
 Board size in configurable
