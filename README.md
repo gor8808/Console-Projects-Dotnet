@@ -1,3 +1,12 @@
+# Maze game
+Maze game implementation in C#, where the board is randomly generated ensuring an exciting path to victory
+1. Simple version 
+	![Simple](GIFs/SimpleMaze.gif)
+2. 40x40 board
+	![40_40](Pictures/40_40_maze.png)
+
+Board size in configurable
+
 # Starfield-Animation-Dotnet
 Basic starfield animation in terminal using C# .NET
 

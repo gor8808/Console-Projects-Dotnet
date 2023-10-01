@@ -4,8 +4,8 @@
     {
         static void Main()
         {
-            int width = 10;
-            int height = 10;
+            int width = 40;
+            int height = 40;
 
             Game game = new(width, height);
 
